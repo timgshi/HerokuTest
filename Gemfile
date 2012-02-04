@@ -7,6 +7,8 @@ gem 'rails', '3.2.1'
 
 gem 'pg'
 
+gem 'thin'
+
 gem 'json'
 
 # Gems used only for assets and not required
